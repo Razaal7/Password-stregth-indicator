@@ -1,0 +1,41 @@
+.container {
+    margin: 50px auto;
+    text-align: center;
+    border: solid;
+    width: 500px;
+    height: 190px;
+    margin-top: 190px;
+    justify-content: center;
+    
+    
+}
+
+input[type="password"] {
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+#password-strength {
+    width: 300px;
+    height: 10px;
+    margin: auto;
+    
+}
+
+.strength-weak {
+    background-color: #ff4d4d;
+    
+}
+
+.strength-medium {
+    background-color: #ffd633;
+
+}
+
+.strength-strong {
+    background-color: #00cc66;
+}
+
+
